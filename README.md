@@ -1,8 +1,6 @@
 # Bankist-App
 A bank application website. This project was developed as an exercise in Jonas Schmedtmann's JavaScript course. 
 
-See the final result: https://chipa014-bankist-app.netlify.app/
-
 Functionality:
 
 This application provides all the basic functionality for a bank app: transfers, loans, calculating interest, as well as the multiple account support, an ability to sort your transactions or close your account altogether. The logout timer will make sure your session is safe. The date and currency display formats are customized to user's locale.
